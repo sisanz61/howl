@@ -13,7 +13,7 @@ const posts = [
   "Centennial Engineering buildings: finally got my code to work after one semicolon and a lot of patience.",
   "Brickyard after the rain: the brick was slippery, the sky cleared up, and campus looked extra nice.",
   "Carter-Finley Stadium: the band was loud, the crowd was louder, and my voice is probably gone for tomorrow's lecture.",
-  "Today felt like the kind of day that makes college make sense: I started with an early chemistry lab where the experiment did not go as planned, grabbed breakfast with a friend I had not seen since orientation, and spent the afternoon at Hunt Library working through a problem set one question at a time. We took a break to watch the bookBot bring someone their book, then walked back across campus while talking about summer plans. I still have a paper to finish tonight, but for once it feels manageable. Go Pack."
+  "Today felt like the kind of day that makes college make sense: I started with an early chemistry lab where the experiment did not go as planned, grabbed breakfast with a friend I had not seen since orientation, and spent the afternoon working through a problem set one question at a time. We took a break to watch the bookBot bring someone their book, then walked back across campus while talking about summer plans. I still have a paper to finish tonight, but for once it feels manageable. Go Pack."
 ];
 
 const postList = document.querySelector("#posts");
